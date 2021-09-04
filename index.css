@@ -1,0 +1,123 @@
+li{
+    list-style: none;
+}
+.top-wrapper{
+    text-align:center;
+    background-image:url(img_e9a08a736bb3446ec5d2c702ed8ac46a285492.jpg);
+    padding:180px 0 100px 0;
+    background-size:cover;
+    color:white;
+}
+.container{
+    width:1170px;
+    margin:0 auto;
+}
+.top-wrapper h1{
+    font-size:45px;
+    letter-spacing: 5px;
+    opacity:0.7;
+}
+.top-wrapper p{
+    opacity: 0.7;
+    margin-bottom:15px;
+}
+.signup{
+    background-color: #239b76;
+    margin-top:15px;
+    margin-bottom:15px
+}
+.facebook{
+    background-color:#3b5998;
+    margin-right:10px;
+}
+.twitter{
+    background-color:#55acee;
+}
+.btn{
+    color:white;
+    padding:8px 24px;
+    opacity: 0.8;
+    border-radius: 4px;
+    display:inline-block;
+}
+.bth:hover{
+    opacity:1;
+}
+.fa{
+    margin-right:5px;
+}
+header{
+    background-color:rgba(34, 49, 52, 0.9);
+    color:white;
+    height: 65px;
+    width: 100%;
+    position:fixed;
+    top:0;
+    z-index:10;
+}
+.header-left{
+    float:left;
+}
+.header-right{
+    float:right;
+    background-color: rgba(255, 255, 255, 0.3);
+    transition:all 0.5s;
+}
+.header-right:hover{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.header-left h1{
+    width:224px;
+    text-align: center;
+    margin-top:25px;
+}
+.header-right a{
+    color:white;
+    line-height: 65px;
+    padding:0 25px;
+    display:block;
+}
+.line-book{
+    background-origin: white;
+    text-align: center;
+}
+.container1 img{
+    height:150px;
+    width:150px;
+    border-radius: 4px;
+}
+footer{
+    background-color: red;
+    color:azure;
+    border:1px solid #eee;
+}
+footer h3{
+    width:124px;
+}
+.footer-list li{
+    
+    padding-bottom:20px
+}
+.footer-list{
+    
+    height:120px;
+}
+footer p{
+    color:#b3aeb5;
+    font-size:12px;
+}
+.history{
+    background-color:blue;
+    border:1px solid #eee;
+    color:#eee
+}
+.menu-icon{
+    padding:21px 0;
+    font-size:25px;
+    float:right;
+    display:none;
+    color:white;
+}
+.clear{
+    clear:left;
+}
